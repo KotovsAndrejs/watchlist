@@ -1,0 +1,11 @@
+[
+    {"name": "spd", 
+    "rat": 8, 
+    "watched": "y"}, 
+    {"nam": "sdrb", 
+    "rat": 7, 
+    "watched": "n"}, 
+    {"name": "xcv", 
+    "rat": 5, 
+    "watched": "y"}
+]
