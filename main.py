@@ -36,7 +36,7 @@ while True:
                 pass
         while True: #We check if the rating is written correctly
             film_rat = int(input("Enter the rating of the film: "))
-            if film_rat.isinstance() == True and film_rat >= 1 and film_rat <=10: #If everything is written correctly, we break the loop
+            if film_rat >= 1 and film_rat <=10: #If everything is written correctly, we break the loop
                 break 
             else:#If not, we repeat our question
                 print("The rating must be a whole number and must be between 1 and 10")
